@@ -7,6 +7,11 @@ A aplicação gerência os clientes de um sistema comercial, através da API do 
 O sistema fornece detalhes do cadastro dos clientes, apenas selecionando e clicando na linha do respesctivo cliente. Ele também disponibiliza um mecanismo de pesquisa pelos campos de ID, NOME ou EMAIL, após o pause de 1500 milissegundos da digitação do usuário, o sistema realiza uma consulta no Database Cloud Firestone ferramenta do Firebase, no qual o sistema é integrado.
 As permissões do Usuário são definidas apenas para realizar consultas e inserção de novos clientes, com o google analytics integrado obtendo informações e ações de como o usuário se comporta.
 
+### Requisitos
+Node
+NPM
+React
+
 ### Getting started
 
 Abra o terminal e digite:
