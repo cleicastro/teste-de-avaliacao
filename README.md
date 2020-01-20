@@ -8,9 +8,9 @@ O sistema fornece detalhes do cadastro dos clientes, apenas selecionando e clica
 As permissões do Usuário são definidas apenas para realizar consultas e inserção de novos clientes, com o google analytics integrado obtendo informações e ações de como o usuário se comporta.
 
 ### Requisitos
-Node
-NPM
-React
+Node <br />
+NPM <br />
+React <br />
 
 ### Getting started
 
